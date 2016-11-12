@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "babel-starter-kit",
+  "name": "starter-kit",
   "version": "0.0.1",
   "description": "A project template for authoring and publishing JavaScript libraries",
   "homepage": "https://www.kriasoft.com/babel-starter-kit/",
